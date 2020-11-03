@@ -7,4 +7,5 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 - 💬 Ask me about in the Instagram: @gustavoNoronha0
 - ⚡ My Languages: Html, Css, Bootstrap 4, React, React native, Javascript, TypeScript, Node js, MongoDB and Mysql 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/GustavoNoronha/GustavoNoronha)
 
