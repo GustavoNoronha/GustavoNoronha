@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gustavo Noronha github stats](https://github-readme-stats.vercel.app/api?username=GustavoNoronha)](https://github.com/GustavoNoronha/github-readme-stats)
+[![Gustavo Noronha github stats](https://github-readme-stats.vercel.app/api?username=GustavoNoronha)](https://github.com/GustavoNoronha/GustavoNoronha)
 
 Here are some ideas to get you started:
 
