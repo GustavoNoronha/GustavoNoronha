@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 
+[github]: https://github.com/urielcaire/learnmd/blob/master/imgs/github.png "Github logo"
 [![Gustavo Noronha github stats](https://github-readme-stats.vercel.app/api?username=GustavoNoronha&count_private=true&theme=dark)](https://github.com/GustavoNoronha/GustavoNoronha)
 
 
