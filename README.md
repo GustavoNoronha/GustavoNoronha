@@ -5,6 +5,6 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 
 
 - 💬 Ask me about in the Instagram: @gustavoNoronha0
-- ⚡ My Languages: Html, Css, Bootstrap 4, React, React native, Javascript, TypeScript, Node js, MongoDB and Mysql 
+- ⚡ My Main Languages: Html, Css, Bootstrap 4, React, React native, Javascript, TypeScript, Node js, MongoDB and Mysql 
 
 
