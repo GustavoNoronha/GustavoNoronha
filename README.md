@@ -9,4 +9,4 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha&langs_count=5)](https://github.com/GustavoNoronha/GustavoNoronha)
 
-
+https://camo.githubusercontent.com/0fdb47c9ab542d2caba4262b920398c4d78e294bac37019aba5788236fe8c192/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667
