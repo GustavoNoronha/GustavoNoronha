@@ -7,6 +7,6 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 - 💬 Ask me about in the Instagram: @gustavoNoronha0
 - ⚡ My Main Languages: Html, Css, Bootstrap 4, React, React native, Javascript, TypeScript, Node js, MongoDB and Mysql 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha)](https://github.com/GustavoNoronha/GustavoNoronha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha&langs_count=8)](https://github.com/GustavoNoronha/GustavoNoronha)
 
 
