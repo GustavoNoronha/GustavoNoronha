@@ -10,5 +10,5 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha&langs_count=5)](https://github.com/GustavoNoronha/GustavoNoronha)
 
 <div style="text-align:center">
-![alt text](https://camo.githubusercontent.com/4c787c5c6189ca6ce26a7f1cf5e5d62c4e5f9de96413adee2643b8fdca490877/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667)
+![alt text](https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry.png =100x20))
 </div>
