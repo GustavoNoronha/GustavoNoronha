@@ -9,6 +9,3 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha&langs_count=5)](https://github.com/GustavoNoronha/GustavoNoronha)
 
-<div style="text-align:center">
-![alt text](https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry.png)
-</div>
