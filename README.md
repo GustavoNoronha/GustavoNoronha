@@ -12,7 +12,7 @@ Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
 
 [![Gustavo Noronha github stats](https://github-readme-stats.vercel.app/api?username=GustavoNoronha&count_private=true&theme=dark&show_icons=true)](https://github.com/GustavoNoronha/GustavoNoronha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha&langs_count=5&layout=compact)](https://github.com/GustavoNoronha/GustavoNoronha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha&langs_count=5&theme=dark)](https://github.com/GustavoNoronha/GustavoNoronha)
 
 
 
